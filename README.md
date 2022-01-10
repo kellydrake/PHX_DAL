@@ -3,7 +3,7 @@ Welcome!
 This project was a mockup of an airport information cheat sheet that would help a traveler navigate smoothly through each airport on their day of travel.
 I used Bootstrap for the structure, style, and interactivity of the web page.  
 
-To view the page, click here: XXXXXXXXXXXXX
+To view the page, click here: https://kellydrake.github.io/PHX_DAL/airportinfo.html
 
 Business brief:
 1. Problem: Customers often have to look in multiple different locations, such as airline's website and airport's website for information needed to prepare for day of travel. They don't have anything that pertains to their specific itinerary. What if we create a cheat sheet to help them navigate only the airport's which they will be traveling?
